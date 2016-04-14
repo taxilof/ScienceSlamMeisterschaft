@@ -2,7 +2,11 @@ CACHE MANIFEST
 
 CACHE:
 admin.html
+admin.min.css
+admin.min.js
 index.html
+index.min.css
+index.min.js
 fonts/SourceSansPro-Black.css
 fonts/SourceSansPro-Black.eot
 fonts/SourceSansPro-Black.svg
@@ -32,17 +36,17 @@ media/clips/bg.png
 media/clips/bg_to_logo.mp4
 media/clips/logo_to_bg.mp4
 media/logo/logo-compact.png
+modules/admin/partials/competitionGroups.html
+modules/admin/partials/competitions.html
+modules/admin/partials/groupParticipants.html
+modules/admin/partials/participants.html
+modules/admin/partials/presentation.html
 modules/presentation/partials/competitionRatings.html
 modules/presentation/partials/group.html
 modules/presentation/partials/groupRatings.html
 modules/presentation/partials/intro.html
 modules/presentation/partials/participant.html
 modules/presentation/partials/ratingParticipant.html
-modules/admin/partials/competitionGroups.html
-modules/admin/partials/competitions.html
-modules/admin/partials/groupParticipants.html
-modules/admin/partials/participants.html
-modules/admin/partials/presentation.html
 modules/admin/partials/dialogs/competitionDialog.html
 modules/admin/partials/dialogs/groupDialog.html
 modules/admin/partials/dialogs/groupParticipantDialog.html
@@ -50,4 +54,4 @@ modules/admin/partials/dialogs/participantDialog.html
 
 NETWORK:
 
-# hash: 90f835b932e778b0e1fe8d62de968760d594a7064b4ee049afaff2cf3389882f
+# hash: a0ad5bc2eabb2cfae116aaa725a86a0ebf0ca6c03c17270e643ecec05f9e463b
