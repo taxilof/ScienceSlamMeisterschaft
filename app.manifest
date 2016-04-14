@@ -36,12 +36,14 @@ media/clips/bg.png
 media/clips/bg_to_logo.mp4
 media/clips/logo_to_bg.mp4
 media/logo/logo-compact.png
+modules/admin/partials/about.html
 modules/admin/partials/competitionGroups.html
 modules/admin/partials/competitions.html
 modules/admin/partials/groupParticipants.html
 modules/admin/partials/participants.html
 modules/admin/partials/presentation.html
 modules/presentation/partials/competitionRatings.html
+modules/presentation/partials/customText.html
 modules/presentation/partials/group.html
 modules/presentation/partials/groupRatings.html
 modules/presentation/partials/intro.html
@@ -54,4 +56,4 @@ modules/admin/partials/dialogs/participantDialog.html
 
 NETWORK:
 
-# hash: a0ad5bc2eabb2cfae116aaa725a86a0ebf0ca6c03c17270e643ecec05f9e463b
+# hash: b52ccf2f38a504a197abaa2249a993a4328f227ccbcafb7d07ab2c620c89e03d
