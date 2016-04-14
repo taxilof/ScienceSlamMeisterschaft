@@ -32,10 +32,10 @@ material-icons/navigation-icons.svg
 material-icons/notification-icons.svg
 material-icons/social-icons.svg
 material-icons/toggle-icons.svg
-media/logo/logo-compact.png
 media/clips/bg.png
 media/clips/bg_to_logo.mp4
 media/clips/logo_to_bg.mp4
+media/logo/logo-compact.png
 modules/admin/partials/about.html
 modules/admin/partials/competitionGroups.html
 modules/admin/partials/competitions.html
@@ -56,4 +56,4 @@ modules/admin/partials/dialogs/participantDialog.html
 
 NETWORK:
 
-# hash: 1c00ac8f3a023c8ac14ed382118f683cf399183797106676f34e708aabba9eaa
+# hash: fcf16980b279c696c169ce1a62e80e49adc77c0f7f110607a5eda656672be1a4
