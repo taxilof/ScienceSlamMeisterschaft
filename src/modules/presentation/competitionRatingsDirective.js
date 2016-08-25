@@ -12,15 +12,17 @@
                     }
                     return number <= $scope.presentation.winnersToShow;
                 };
-                // $timeout(function () {
-                //     html2canvas(document.body, {
-                //         onrendered: function (canvas) {
-                //             console.log("html2canvas render done");
-                //             var img = canvas.toDataURL("image/png");
-                //             window.open(img);
-                //         }
-                //     });
-                // }, 0);
+                //function to create a screenshot of the result
+                // if winnersToShow == winnerList.length
+                $timeout(function () {
+                    html2canvas(document.body, {
+                        onrendered: function (canvas) {
+                            console.log("html2canvas render done");
+                            var img = canvas.toDataURL("image/png");
+                            //console.log(img);
+                        }
+                    });
+                }, 0);
             }
         }
     });
